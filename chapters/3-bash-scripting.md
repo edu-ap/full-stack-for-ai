@@ -53,12 +53,12 @@ Hello, World!
 ### Defining Variables
 Variables store data for use within a script.
 ```bash
-name="Eduardo"
+name="John"
 echo "Hello, $name!"
 ```
 Output:
 ```
-Hello, Eduardo!
+Hello, John!
 ```
 
 ### User Input
@@ -113,11 +113,11 @@ Define reusable blocks of code within a script:
 greet() {
   echo "Hello, $1!"
 }
-greet "Eduardo"
+greet "John"
 ```
 Output:
 ```
-Hello, Eduardo!
+Hello, John!
 ```
 
 ## Debugging Scripts

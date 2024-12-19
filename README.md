@@ -5,36 +5,36 @@ Welcome to your comprehensive journey into full-stack AI development! This curri
 ## Course Structure
 
 ### 1. Foundation Layer: Operating Systems and Command Line
-1. [Unix Operating Systems](1-unix-operating-systems.md)
-2. [Understanding Unix File Permissions](2-unix-file-permissions.md)
-3. [BASH Scripting Fundamentals](3-bash-scripting.md)
-4. [Version Control with Git](4-git-basics.md)
-5. [GitHub CLI and Collaboration](5-github-cli.md)
+1. [Unix Operating Systems](chapters/1-unix-operating-systems.md)
+2. [Understanding Unix File Permissions](chapters/2-unix-file-permissions.md)
+3. [BASH Scripting Fundamentals](chapters/3-bash-scripting.md)
+4. [Version Control with Git](chapters/4-git-basics.md)
+5. [GitHub CLI and Collaboration](chapters/5-github-cli.md)
 
 ### 2. Virtualization and Containerization
-6. [Virtual Machines](6-virtual-machines.md)
-7. [Docker and Containerization](7-docker-basics.md)
+6. [Virtual Machines](chapters/6-virtual-machines.md)
+7. [Docker and Containerization](chapters/7-docker-basics.md)
 
 ### 3. Cloud and Infrastructure
-8. [Cloud Fundamentals](8-cloud-fundamentals.md)
-9. [Infrastructure as Code](9-infrastructure-as-code.md)
-10. [Networking Basics](10-networking-basics.md)
-11. [Security Fundamentals](11-security-basics.md)
-12. [Authentication](12-authentication.md)
+8. [Cloud Fundamentals](chapters/8-cloud-fundamentals.md)
+9. [Infrastructure as Code](chapters/9-infrastructure-as-code.md)
+10. [Networking Basics](chapters/10-networking-basics.md)
+11. [Security Fundamentals](chapters/11-security-basics.md)
+12. [Authentication](chapters/12-authentication.md)
 
 ### 4. Development and Databases
-13. [Modern Web Development with Node.js and React](13-web-development.md)
-14. [Logging, Monitoring, and Alerting](14-logging-monitoring.md)
-15. [Database Setup and Management](15-database-basics.md)
+13. [Modern Web Development with Node.js and React](chapters/13-web-development.md)
+14. [Logging, Monitoring, and Alerting](chapters/14-logging-monitoring.md)
+15. [Database Setup and Management](chapters/15-database-basics.md)
 
 ### 5. AI Integration and Advanced Topics
-16. [AI Embeddings and Foundation Models](16-ai-embeddings.md)
-17. [User Authentication and State Management](17-user-auth-state.md)
-18. [Payment Integration with Stripe](18-payment-integration.md)
-19. [Cost Optimization and Architecture](19-cost-optimization.md)
+16. [AI Embeddings and Foundation Models](chapters/16-ai-embeddings.md)
+17. [User Authentication and State Management](chapters/17-user-auth-state.md)
+18. [Payment Integration with Stripe](chapters/18-payment-integration.md)
+19. [Cost Optimization and Architecture](chapters/19-cost-optimization.md)
 
 ### 6. Final Project
-20. [Full-Stack AI Application](20-full-stack-ai-app.md)
+20. [Full-Stack AI Application](chapters/20-full-stack-ai-app.md)
 
 ## Learning Path Structure
 
